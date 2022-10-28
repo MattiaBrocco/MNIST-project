@@ -1,4 +1,5 @@
 # Fashion MNIST classification project
+![target_values](https://user-images.githubusercontent.com/61026948/198559433-66292bfd-4c30-48b9-a1d2-c6ebf4bbd56b.jpg)
 
 ## References
 * Source: [Fashion MNIST](https://www.kaggle.com/c/image-classification-fashion-mnist/)
