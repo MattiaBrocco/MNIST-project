@@ -1,4 +1,7 @@
 # Fashion MNIST classification project
+
+Best result: `90.04%` accuracy with a regularized Support Vector Classifier. No feature selection applied.
+
 ![target_values](https://user-images.githubusercontent.com/61026948/198559433-66292bfd-4c30-48b9-a1d2-c6ebf4bbd56b.jpg)
 
 ## References
